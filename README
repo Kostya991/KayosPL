@@ -4,7 +4,7 @@ Now it`s an Alpha 0.1.0.
 It`s an interpreter of my language wroten on Python.
 some commands\code things:
 console.prnt(text here) (example: console.prnt(notOpened))
-varVariableName = number or text (example: varOpened = 1)
+varVariableName = number or text (example: varOpened = 1 or varOpened = no)
 save.file {based} - creates main.kpf and writes a code in it from interpreter
 It`s only 3 and I`m gonna add other things later.
 

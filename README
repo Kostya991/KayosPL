@@ -7,3 +7,5 @@ console.prnt(text here) (example: console.prnt(notOpened))
 varVariableName = number or text (example: varOpened = 1)
 save.file {based} - creates main.kpf and writes a code in it from interpreter
 It`s only 3 and I`m gonna add other things later.
+
+You can ask me on 'Discussions' and request things in 'Pull requests'.

@@ -5,7 +5,7 @@ It`s an interpreter of my language wroten on Python.
 some commands\code things:
 console.prnt("text here") (example: console.prnt("notOpened"))
 varVariable_Name = number or text (example: varOpened = 1 or varOpened = no)
-save.file {based} - creates main.kpf and writes a code in it from interpreter
+save_file.based - creates main.kpf and writes a code in it from interpreter
 
 
 console.prnt(Variable_Name) - it will print value of variable

@@ -1,14 +1,19 @@
 Well uh.
 It`s an Kayos Programming Language/KPL.
-Now it`s an Alpha 0.2.0.
+Now it`s an Alpha 0.2.1.
 It`s an interpreter of my language wroten on Python.
 some commands\code things:
 console.prnt("text here") (example: console.prnt("notOpened"))
 varVariable_Name = number or text (example: varOpened = 1 or varOpened = no)
 save.file {based} - creates main.kpf and writes a code in it from interpreter
 
+
 console.prnt(Variable_Name) - it will print value of variable
 console.inpt("") or console.inpt("text: ") - i cant add a variable print\input there but its input now!
 
-It`s only 5 things i added and I`m gonna add other things later.
+
+varVariable_Name = float("number1", "+ or * or - or /", "number2") - calculate "number1" and "number2"
+console.prnt(Variable_Name) - print result
+
+It`s only 6 things i added and I`m gonna add other things later.
 You can ask me on 'Discussions' and request things in 'Pull requests'.

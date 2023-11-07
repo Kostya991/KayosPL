@@ -1,3 +1,5 @@
+# main.py
+
 class Interpreter:
     def __init__(self):
         self.variables = {}
@@ -31,7 +33,7 @@ class Interpreter:
             print("ERROR: Missing 'end' command")
 
     def process_start_line(self, line):
-        if line.startswith("@"):  
+        if line.startswith("@"):  # Ignore lines starting with @
             return
 
         if line.startswith("console.prnt"):
@@ -51,7 +53,7 @@ class Interpreter:
                 print(f"ERROR: Invalid var command: {line}")
         elif line.startswith("console.inpt"):
             variable_name = line[line.find("(")+1:line.rfind(")")].strip('\'"')
-            value = input(f"Enter value for {variable_name}: ")
+            value = input(f"{variable_name} ")
             self.variables[variable_name] = value
         else:
             print(f"ERROR: Unknown command in START block: {line}")

@@ -22,7 +22,9 @@ xd
 
 ----------------------------------
 
+
 without the module akabase it won`t do anything
+and yes, without any '' or "" in console.prnt, only prints value of variables
 fun fact: akabase is AKA. BASE
 Like it`s BASIC things for a program to make on my simple 'programming language'
 i will add float, if, else soon (i can`t realise them for now

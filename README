@@ -1,19 +1,28 @@
-Well uh.
-It`s an Kayos Programming Language/KPL.
-Now it`s an Alpha 0.2.1.
-It`s an interpreter of my language wroten on Python.
-some commands\code things:
-console.prnt("text here") (example: console.prnt("notOpened"))
-varVariable_Name = number or text (example: varOpened = 1 or varOpened = no)
-save_file.based - creates main.kpf and writes a code in it from interpreter
+~I made a new look for a code~
+It`s 0.3.0 alpha now!
+So, i made it to interpret the file 'main.txt'
+
+so, there is a some things i made and a docs for KayosProgrammingLanguage/KPL
+
+--------------CODE--------------
+
+@use:akabase - its basic module that allows you to make basic console program or idk what else
+
+start: - start of the code
+varXD = 'xd' - variable and its value after '='
+console.prnt(XD) - prints value of variable
+console.inpt("") - allows you to print
+@xdddasdjkaksfjnasl - commentary thing
+end - ends it all
 
 
-console.prnt(Variable_Name) - it will print value of variable
-console.inpt("") or console.inpt("text: ") - i cant add a variable print\input there but its input now!
 
+--------------OUTPUT--------------
+xd
 
-varVariable_Name = float("number1", "+ or * or - or /", "number2") - calculate "number1" and "number2"
-console.prnt(Variable_Name) - print result
+----------------------------------
 
-It`s only 6 things i added and I`m gonna add other things later.
-You can ask me on 'Discussions' and request things in 'Pull requests'.
+without the module akabase it won`t do anything
+fun fact: akabase is AKA. BASE
+Like it`s BASIC things for a program to make on my simple 'programming language'
+i will add float, if, else soon (i can`t realise them for now
